@@ -1,0 +1,275 @@
+*{
+    font-family: sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    background-color: black;
+    align-items: center;
+}
+.overall{
+    width: 100%;
+    background: url("colors.jpeg") no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+}
+.Nav-bar{
+    width: 100%;
+}
+.lower-sec{
+   text-align: center;
+    width: 100%;
+    background: black;
+    margin-top: 700px;
+    height: 800px;
+    justify-content: center;
+
+}
+.lower-th{
+    margin-top: 900px;
+    height: 300px;
+    background-color: black;
+    margin-bottom: 0;
+}
+.top-items{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.top-items h1{
+    margin-left: 40px;
+    font-size: 18px;
+    margin-top: 40px;
+}
+.insiders{
+    margin-left: 30%;
+    margin-top: 30px;
+}
+#fname{
+    height: 35px;
+    width: 400px;
+    border-radius: 5px;
+    background: white;
+    opacity: 40%;
+    margin-right: 0;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+}
+#cars{
+    margin-left: auto;
+    height:35px;
+    width: 100px;
+    background: grey;
+    opacity: 40%;
+    border:none;
+    color: white;
+}
+.bi-search{
+    margin-top: 10px;
+    margin-left: 8px;
+    background: transparent;
+    width: 16px;
+    height:16px;
+    justify-content: center;
+}
+.search-erm{
+    background: transparent;
+    width: 30px;
+    height: 33px;
+    margin-top: 33px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+}
+#logo{
+    margin-top: 24px;
+}
+.other-side{
+    margin-left: 1%;
+    margin-top: 40px;
+    width: 300px;
+    display: flex;
+}
+.bi-person-circle{
+    height: 25px;
+    width: 30px;
+}
+.other-side p{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+.love{
+    margin-left: 80px;
+    margin-top: 9px;
+}
+.bi-cart2{
+    margin-left: 30px;
+    height: 25px;
+    width: 30px;
+}
+.second{
+    position: sticky;
+    top: 0px;
+}
+.second ul{
+    display: flex;
+    margin-top: 20px;
+    list-style-type: none;
+    margin-left: -33px;
+}
+.second ul li a{
+    margin-left: 30px;
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.summer{
+    margin-top: 100px;
+    margin-left: 70px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.collect-text{
+    margin-left: 70px;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 8px;
+}
+.perfect-style{
+    margin-left: 70px;
+    font-size: 15px;
+}
+.shop-now{
+    height: 50px;
+    width: 200px;
+    background: white;
+    color: royalblue;
+    margin-top: 10px;
+    margin-left: 70px;
+    border: none;
+}
+.shop-now a{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 15px;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.first-avatar{
+    margin-top: -1000px;
+    margin-left: 360px;
+    height: 180px;
+    width: 400px;
+    background: url("MACN.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.second-avatar{
+    margin-top: -180px;
+    margin-left: 760px;
+    height: 180px;
+    width: 400px;
+    background: url("french.jpeg") no-repeat;
+    background-size: cover;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.sec-nav{
+    color: black;
+    width: 1000px;
+}
+.sec-nav ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 580px;
+}
+.sec-nav ul li{
+    font-size: 10px;
+    margin-left: 30px;
+    color: white;
+}
+.products{
+    color: white;
+    width: 1000px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    margin-left: 250px;
+}
+.bottom{
+    width: 250px;
+    height: 400px;
+    border-radius: 5px;
+}
+.first{
+    margin-left: 360px;
+    background: url("chick.jpeg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.secondone{
+    margin-left: 630px;
+    margin-top: -400px;
+    background: url("newww.webp") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.third{
+    margin-left: 900px;
+    margin-top: -400px;
+    background: url("agric.jpeg") no-repeat;
+    background-size: cover;
+}
+.image-sec{
+    background: transparent;
+    margin-left: 50%;
+    margin-top: -20%;
+
+}
+.requests{
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 60px;
+    background-color: lightblue;
+    border-radius: 20px 40px;
+    color: black;
+}
+.requests p{
+    margin-left: 200px;
+}
+.section-th{
+    text-align: center;
+    width: 100%;
+    height: 700px;
+    border: 1px solid darkorchid;
+}
+#req{
+    font-size: 20px;
+}
+.scroll-area{
+    margin-right: 20px;
+    margin-left: 20px;
+    padding:4px;
+    background-color: transparent;
+    width: 100%;
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+}
+.bi-arrow-up-circle{
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    color: black;
+}
