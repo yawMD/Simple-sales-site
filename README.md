@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Emmanuel MacDan
 - 👀 I’m interested in technology
+- im a full stack dev 
 - i love to code 
 
 <!---
