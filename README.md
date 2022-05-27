@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Emmanuel MacDan
+- 👋 Hi, I’m a Fullstack Web Developer
 - 👀 I’m interested in technology
-- im a full stack dev 
 - i love to code 
 
 <!---
